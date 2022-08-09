@@ -24,6 +24,5 @@ Production Example Notebooks|⭐⭐⭐⭐ <br>[MNIST with Lightning](https://pyt
 - [neptune.ai PyTorch Lightning vs Ignite](https://neptune.ai/blog/pytorch-lightning-vs-ignite-differences#:~:text=Conclusion,components%20in%20a%20particular%20function.)
 - [https://pytorch-ignite.ai/](https://pytorch-ignite.ai/)
 - [Toward data science Pytorch Lightning vs PyTorch Ignite vs Fast.ai](https://towardsdatascience.com/pytorch-lightning-vs-pytorch-ignite-vs-fast-ai-61dc7480ad8a)
-- 
 
 
